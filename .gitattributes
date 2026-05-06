@@ -1,1 +1,7 @@
 *.dart linguist-language=Dart
+Windows/** linguist-vendored
+Linux/** linguist-vendored
+macOS/** linguist-vendored
+Android/** linguist-vendored
+iOS/** linguist-vendored
+web/** linguist-vendored
